@@ -65,9 +65,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### :page_facing_up: Accomplishments :
-####  <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
-       <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
-    </a>
+<a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
+<img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+</a>
     
    <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
       Foundations: Data, Data, Everywhere by Google
