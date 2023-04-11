@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/softwarehoangthien" target="_blank">{:target="_blank"}
+    <a href="https://www.linkedin.com/in/softwarehoangthien" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UC4SUvl8A7pzDtPMqixg_fSg" target="_blank">{:target="_blank"}
+    <a href="https://www.youtube.com/channel/UC4SUvl8A7pzDtPMqixg_fSg" target="_blank">
       <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://www.facebook.com/Hoangthien004/" target="_blank">{:target="_blank"}
+    <a href="https://www.facebook.com/Hoangthien004/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
     </a>
   </div>
@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hoangthiensoftware@gmail.com" target="_blank">{:target="_blank"}
+- :mailbox:How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hoangthiensoftware@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Thien-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 
