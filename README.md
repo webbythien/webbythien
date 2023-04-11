@@ -30,8 +30,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Thien-red?style=for-the-badge&logo=Gmail&logoColor=white)](hoangthiensoftware@gmail.com)
+- :mailbox:How to reach me: <a href="mailto:hoangthiensoftware@gmail.com">
+      <img src="https://img.shields.io/badge/Thien-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
 
 ---
 
