@@ -69,6 +69,21 @@ Foundations: Data, Data, Everywhere by Google   <a href="https://coursera.org/sh
       <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
     </a>
     
+Software Development Lifecycle by University of Minnesota   <a href="https://coursera.org/share/bd70cfb28b0018d824d1f28018dd36d2" target="_blank"> 
+      <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+    </a>
+    
+Web Design for Everybody by University of Michigan   <a href="https://coursera.org/share/45bfd02ffd1b4913dcb9d7c49736934e" target="_blank"> 
+      <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+    </a>
+    
+Computer Communications by University of Colorado System   <a href="https://coursera.org/share/fd61b06cf0dab3f869128bd4616adce9" target="_blank"> 
+      <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+    </a>
+    
+Academic Skills for University Success by The University of Sydney   <a href="https://coursera.org/share/6447d58940fbf3abbf3ab5e19abbb83c" target="_blank"> 
+      <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+    </a>    
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
