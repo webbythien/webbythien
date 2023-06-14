@@ -74,7 +74,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </a>
 </div>
 </br></br>
-
+----------------------------
 <div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="80px"/>
@@ -84,6 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a>
 </div>  
 </br></br>
+----------------------------
 <div>
 <div target="_blank"> 
 <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
