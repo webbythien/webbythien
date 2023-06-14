@@ -65,6 +65,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### :page_facing_up: Accomplishments :
+
+ <a href="[https://coursera.org/share/7f147e8a6462b5413273dd906f83374b](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" target="_blank"> 
+      AWS Cloud Technical Essentials
+    </a></br></br>
+
 <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
 <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
 </a></br></br>
