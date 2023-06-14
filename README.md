@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :page_facing_up: Accomplishments :
 <div>
 <div class="background: white;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80px"/>
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png" width="80px"/>
 </div>
  <a href="https://coursera.org/share/1c6b5627bdbf6d28376f6f7a814f6dd5" target="_blank"> 
       AWS Cloud Technical Essentials
