@@ -73,6 +73,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       AWS Cloud Technical Essentials
  </a></br></br>
 </div>
+------------------------------------------------------
  
 <div>
 <div>
@@ -83,7 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a></br></br>
  </div>   
  
- <div style="border-bottom: 2px dashed white"></div>
+------------------------------------------------------
 
 <div>
 <div target="_blank"> 
