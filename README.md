@@ -89,6 +89,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div target="_blank"> 
 <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
 </div>
+  <a href="https://coursera.org/share/d6b94ae1dff89be93365d761b5d32139" target="_blank"> 
+      CertNexus Certified Ethical Emerging Technologist
+    </a></br></br>
+  
    <a href="https://coursera.org/share/bd70cfb28b0018d824d1f28018dd36d2" target="_blank"> 
       Software Development Lifecycle by University of Minnesota
     </a></br></br>
