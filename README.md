@@ -74,7 +74,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </a></br></br>
 </div>
 
-
+---
 <div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="80px"/>
@@ -84,6 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a></br></br>
  </div>   
  
+---
 
 <div>
 <div target="_blank"> 
