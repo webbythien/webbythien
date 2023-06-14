@@ -63,8 +63,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webbythien&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ### :page_facing_up: Accomplishments :
+---
 <div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80px"/>
@@ -74,7 +74,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </a></br></br>
 </div>
 
---
+---
 <div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="80px"/>
@@ -84,7 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a></br></br>
  </div>   
  
---
+---
 
 <div>
 <div target="_blank"> 
