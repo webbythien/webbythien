@@ -70,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png" width="80px"/>
 </div>
  <a href="https://coursera.org/share/1c6b5627bdbf6d28376f6f7a814f6dd5" target="_blank"> 
-      AWS Cloud Technical Essentials
+      AWS Cloud Technical Essentials by Amazon Web Services
  </a>
 </div>
 </br></br>
