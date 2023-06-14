@@ -63,29 +63,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webbythien&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :page_facing_up: Accomplishments :
 ---
+### :page_facing_up: Accomplishments :
 <div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80px"/>
 </div>
  <a href="https://coursera.org/share/1c6b5627bdbf6d28376f6f7a814f6dd5" target="_blank"> 
       AWS Cloud Technical Essentials
- </a></br></br>
+ </a>
 </div>
+</br></br>
 
----
 <div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="80px"/>
 </div>
 <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
       Foundations: Data, Data, Everywhere by Google
-    </a></br></br>
- </div>   
- 
----
-
+    </a>
+</div>  
+</br></br>
 <div>
 <div target="_blank"> 
 <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
