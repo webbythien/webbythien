@@ -65,19 +65,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### :page_facing_up: Accomplishments :
-
- <a href="[https://coursera.org/share/7f147e8a6462b5413273dd906f83374b](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" target="_blank"> 
+<div>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px"/>
+</div>
+ <a href="https://coursera.org/share/1c6b5627bdbf6d28376f6f7a814f6dd5" target="_blank"> 
       AWS Cloud Technical Essentials
-    </a></br></br>
-
+ </a></br></br>
+</div>
+ 
+<div>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="30px"/>
+</div>
 <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
-<img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
-</a></br></br>
-    
-   <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
       Foundations: Data, Data, Everywhere by Google
     </a></br></br>
-    
+ </div>   
+ 
+<div>
+<div target="_blank"> 
+<img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+</div>
    <a href="https://coursera.org/share/bd70cfb28b0018d824d1f28018dd36d2" target="_blank"> 
       Software Development Lifecycle by University of Minnesota
     </a></br></br>
@@ -93,6 +102,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <a href="https://coursera.org/share/6447d58940fbf3abbf3ab5e19abbb83c" target="_blank"> 
       Academic Skills for University Success by The University of Sydney
     </a></br> </br>
+ </div>   
     
 ---
 ### :writing_hand: Blog Posts :
