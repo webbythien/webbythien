@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, play guitar and read tech articles.
 - :mailbox:How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hoangthiensoftware@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Thien-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
