@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :page_facing_up: Accomplishments :
 <div>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px"/>
 </div>
  <a href="https://coursera.org/share/1c6b5627bdbf6d28376f6f7a814f6dd5" target="_blank"> 
       AWS Cloud Technical Essentials
@@ -76,7 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 <div>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="100px"/>
 </div>
 <a href="https://coursera.org/share/7f147e8a6462b5413273dd906f83374b" target="_blank"> 
       Foundations: Data, Data, Everywhere by Google
